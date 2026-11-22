@@ -26,7 +26,7 @@ We built Sight to explore real-time navigation for blind and visually impaired p
 
 ### Thekenyos · HackSpain 2026
 
-Our team's HackSpain project used a four-legged robot with an arm to harvest kiwis on orchard terrain. We worked in simulation using MuJoCo; this was not a deployment on a physical robot. The project reached the HackSpain final.
+Our team's HackSpain project used a four-legged robot with an arm to harvest kiwis on orchard terrain. Working in simulation with MuJoCo, we got it walking on its own, detecting the fruit through a camera and picking it. The project reached the HackSpain final, winning a secondary track.
 
 [Demo](https://www.youtube.com/watch?v=fd89hCa-QUU&feature=youtu.be) · [Source](https://github.com/inesdavila/Thekenyos)
 
