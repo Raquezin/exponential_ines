@@ -1,7 +1,7 @@
 # About Inés Dávila
 
 **Best with:** C++ · Algorithms · Data structures · Competitive programming · Graph theory  
-**Familiar with:** Python
+**Experienced with:** Python
 
 > I'm a 19-year-old Computer Science - AI student at the University of Seville. I started programming at 14 and now teach competitive programming at the Algorithms Club at the University of Seville (CAUS). More recently, I've been building team projects at hackathons including DurHack, HackSpain and HackUPC. Outside computing, I make and sell crocheted pieces locally.
 
@@ -9,12 +9,12 @@
 
 ## Main achievements
 
-- **DurHack 2026&#32;**(Hackathon)**:** we built Sight, an experimental audio navigation assistant for blind and visually impaired people. We won the **Accenture Track** and were **Marshall Wace Track finalists**, in the top four of more than 90 teams. We also placed **3rd in the Qube Research & Technologies x OpenAI CTF Track**.
+- **DurHack 2026&#32;**(Hackathon)**:** we built Sight, an experimental audio navigation assistant for blind and visually impaired people. We won **1st** place in the **Accenture Track** and were **Marshall Wace Track finalists**, in the top four of more than 90 teams. We also placed **3rd in the Qube Research & Technologies x OpenAI CTF Track**.
 - **AdaByron Regional 2026&#32;**(Competitive Programming)**:** **1st in Category A/B and 4th overall**, qualifying for the national final in our first year as university students.
 - **Young Founders of London x Lovable Hackathon, London (2026): 2nd** place for our team's asset-backed deposit prototype.
-- **CAUS:** organiser, instructor and marketing lead at the Algorithms Club of Seville University. Since I joined the organising team, we have grown to more than **50 regular students**, with separate beginner and advanced sessions and contests that reach capacity.
-- **ETSII Emprende 2026:** **1st place** in the university entrepreneurship contest.
-- **Informatics olympiads:** 3rd in Seville in 2025; OIFem national finalist in 2022-25; top 15 in Andalusia each year in 2022-25.
+- **Algorithms Club of Seville University (CAUS):** organiser, instructor and marketing lead. Since I joined the organising team, we have grown to more than **50 regular students**, with separate beginner and advanced sessions and contests that reach capacity.
+- **ETSII Emprende 2026: 1st** place in the university entrepreneurship contest.
+- **Informatics olympiads: 3rd** in Seville in 2025; OIFem national finalist in 2022-25; top 15 in Andalusia each year in 2022-25.
 
 ## Most-prideful builds
 
@@ -64,7 +64,7 @@ I joined CAUS before starting university, when only a handful of us attended the
 - At hackathons, my biggest contribution is often presenting the idea to the judges and explaining why it matters.
 - I notice things that could be better, especially visually. I enjoy design and have helped with 3D modelling.
 - I like a team where we can chat and laugh while we work. I can be serious when the situation calls for it, but I don't need every conversation to be.
-- Receiving a message from me at 2 a.m. is more common than at 9 a.m.
+- Receiving a message from me at 2 a.m. is more common than at 7 a.m.
 
 ## Other
 
