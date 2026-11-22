@@ -3,7 +3,7 @@
 **Best with:** C++ · Algorithms · Data structures · Competitive programming · Graph theory  
 **Familiar with:** Python
 
-> I'm a 19yo Computer Science - AI student at the University of Seville. I started programming at 14 and now teach competitive programming at the Algorithms Club at the University of Seville (CAUS). More recently, I've been building team projects at hackathons including DurHack, HackSpain and HackUPC. Outside computing, I make and sell crocheted pieces locally.
+> I'm a 19-year-old Computer Science - AI student at the University of Seville. I started programming at 14 and now teach competitive programming at the Algorithms Club at the University of Seville (CAUS). More recently, I've been building team projects at hackathons including DurHack, HackSpain and HackUPC. Outside computing, I make and sell crocheted pieces locally.
 
 [LinkedIn](https://www.linkedin.com/in/ines-davila-herrero/) · [GitHub](https://github.com/inesdavila)
 
@@ -38,7 +38,7 @@ A predictive-maintenance prototype for the HP Metal Jet S100 3D printer. Our tea
 
 ### Club of Algorithms · A community I've helped build
 
-I joined CAUS before starting university, when only a handful of us attended the weekly classes. At 18, I was elected to the organising team. I now teach algorithms and data structures, help promote the club and organise programming contests. We run beginner and advanced weekly sessions for more than 50 regular students, which is a lot of people if you take in count that classes are on fridays. Every year a few of the teams we train go to the national competitive programing competition AdaByron. In 2026 my team was one of them.
+I joined CAUS before starting university, when only a handful of us attended the weekly classes. At 18, I was elected to the organising team. I now teach algorithms and data structures, help promote the club and organise programming contests. We run beginner and advanced weekly sessions for more than 50 regular students, which is a lot of people considering that classes are on Fridays. Every year a few of the teams we train go to the national competitive programming competition AdaByron. In 2026 my team was one of them.
 
 ## Experience (TL;DR)
 
