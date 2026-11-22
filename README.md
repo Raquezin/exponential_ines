@@ -3,7 +3,7 @@
 **Best with:** C++ · Algorithms · Data structures · Competitive programming · Graph theory  
 **Familiar with:** Python
 
-> I'm a Computer Science - AI student at the University of Seville. I started programming at 14 and now teach competitive programming at the Algorithms Club at the University of Seville (CAUS), the club where I first learnt alongside university students. More recently, I've been building team projects at hackathons, from a 3D-printer maintenance prototype to an audio navigation assistant. Outside computing, I make and sell crocheted pieces locally.
+> I'm a 19yo Computer Science - AI student at the University of Seville. I started programming at 14 and now teach competitive programming at the Algorithms Club at the University of Seville (CAUS). More recently, I've been building team projects at hackathons including DurHack, HackSpain and HackUPC. Outside computing, I make and sell crocheted pieces locally.
 
 [LinkedIn](https://www.linkedin.com/in/ines-davila-herrero/) · [GitHub](https://github.com/inesdavila)
 
@@ -11,8 +11,9 @@
 
 - **DurHack 2026&#32;**(Hackathon)**:** we built Sight, an experimental audio navigation assistant for blind and visually impaired people. We won the **Accenture Track** and were **Marshall Wace Track finalists**, in the top four of more than 90 teams. We also placed **3rd in the Qube Research & Technologies x OpenAI CTF Track**.
 - **AdaByron Regional 2026&#32;**(Competitive Programming)**:** **1st in Category A/B and 4th overall**, qualifying for the national final in our first year as university students.
+- **Young Founders of London x Lovable Hackathon, London (2026): 2nd** place for our team's asset-backed deposit prototype.
 - **CAUS:** organiser, instructor and marketing lead at the Algorithms Club of Seville University. Since I joined the organising team, we have grown to more than **50 regular students**, with separate beginner and advanced sessions and contests that reach capacity.
-- **ETSII Emprende 2026:** **1st place** entrepreneurship contest.
+- **ETSII Emprende 2026:** **1st place** in the university entrepreneurship contest.
 - **Informatics olympiads:** 3rd in Seville in 2025; OIFem national finalist in 2022-25; top 15 in Andalusia each year in 2022-25.
 
 ## Most-prideful builds
@@ -25,19 +26,19 @@ We built Sight to explore real-time navigation for blind and visually impaired p
 
 ### Thekenyos · HackSpain 2026
 
-Our team's HackSpain project explored using a four-legged robot with an arm to harvest kiwis on orchard terrain. We worked in simulation using MuJoCo; this was not a deployment on a physical robot. The project reached the HackSpain final.
+Our team's HackSpain project used a four-legged robot with an arm to harvest kiwis on orchard terrain. We worked in simulation using MuJoCo; this was not a deployment on a physical robot. The project reached the HackSpain final.
 
-[Source](https://github.com/inesdavila/Thekenyos)
+[Demo](https://www.youtube.com/watch?v=fd89hCa-QUU&feature=youtu.be) · [Source](https://github.com/inesdavila/Thekenyos)
 
 ### Blue Lobster · HackUPC 2026
 
 A predictive-maintenance prototype for the HP Metal Jet S100 3D printer. Our team combined a simulated digital twin, maintenance planning, telemetry dashboards and an AI diagnostic assistant. The prototype uses synthetic machine data rather than a live industrial deployment.
 
-[Source and setup](https://github.com/Raquezin/HackUPC26)
+[Project and demo](https://devpost.com/software/blue-lobster) · [Source](https://github.com/Raquezin/HackUPC26)
 
 ### Club of Algorithms · A community I've helped build
 
-I joined CAUS before starting university, when only a handful of us attended the weekly classes. At 18, I was elected to the organising team. I now teach algorithms and data structures, help promote the club and organise programming contests. We run beginner and advanced weekly sessions for more than 50 regular students, which is a lot of people if you take in count that classes are on fridays. Every year a few of the teams we train go to the national competitive programing competition AdaByron. Last year my team was one of them.
+I joined CAUS before starting university, when only a handful of us attended the weekly classes. At 18, I was elected to the organising team. I now teach algorithms and data structures, help promote the club and organise programming contests. We run beginner and advanced weekly sessions for more than 50 regular students, which is a lot of people if you take in count that classes are on fridays. Every year a few of the teams we train go to the national competitive programing competition AdaByron. In 2026 my team was one of them.
 
 ## Experience (TL;DR)
 
@@ -55,7 +56,7 @@ I joined CAUS before starting university, when only a handful of us attended the
 - **B.S. in Computer Science (AI Focus), University of Seville** · 2025-present. Class representative.
 - **GCI World 2026, Matsuo Lab, University of Tokyo** · Selected participant in the online course, currently in progress. Matsuo Lab is one of Japan's leading AI research laboratories.
 - **Baccalaureate with Honours** · 9.63/10.
-- **Languages:** Spanish (native), English (Cambridge C1), Japanese (JLPT N3; currently studying for N2), French, might start learning Greek in a nearby future.
+- **Languages:** Spanish (native), English (Cambridge C1), Japanese (JLPT N3; currently studying for N2), French (B2), might start learning Greek in a nearby future.
 
 ## Working with me
 
@@ -69,7 +70,7 @@ I joined CAUS before starting university, when only a handful of us attended the
 
 ### Some personal stuff
 
-I sew, embroider, crochet... I love creating with my hands. I also like climbing, languages and travelling. I spent part of my childhood studying in a public school in Durham, England and have taken part in exchanges in England and France.
+I sew, embroider, crochet... I love creating with my hands. I also like climbing, languages and travelling. I spent part of my childhood studying in a school in Durham, England and have taken part in exchanges in England and France.
 
 ### My vision
 
