@@ -1,4 +1,4 @@
-# About Inés Dávila
+# <img src="./profile-title.svg" width="328" height="44" alt="About Inés Dávila">
 
 **Best with:** C++ · Algorithms · Data structures · Competitive programming · Graph theory  
 **Experienced with:** Python

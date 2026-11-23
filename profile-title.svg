@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 328 44">
+  <title>About Inés Dávila</title>
+  <style>
+    .heading { fill: #175cbd; }
+    @media (prefers-color-scheme: dark) {
+      .heading { fill: #79b8ff; }
+    }
+  </style>
+  <g transform="translate(0 9) scale(.85)">
+  <path d="M5 23 19 7 33 22 47 6 M5 23 33 22 M19 7 47 6"
+        fill="none" stroke="#388bfd" stroke-width="2" stroke-linejoin="round"/>
+  <g fill="#79c0ff" stroke="#1f6feb" stroke-width="1.5">
+    <circle cx="5" cy="23" r="3.5"/>
+    <circle cx="19" cy="7" r="4"/>
+    <circle cx="33" cy="22" r="4"/>
+    <circle cx="47" cy="6" r="3.5"/>
+  </g>
+  </g>
+  <text class="heading" x="54" y="33" font-family="Arial, sans-serif" font-size="32">About <tspan font-weight="700">Inés Dávila</tspan></text>
+</svg>
