@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 281 28">
+  <title>Thekenyos · HackSpain 2026</title>
+  <style>
+    text { fill: #175cbd; }
+    .event { fill: #59636e; }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #79b8ff; }
+      .event { fill: #b1bac4; }
+    }
+  </style>
+  <text x="0" y="21" font-family="Arial, sans-serif" font-size="20" font-weight="700">Thekenyos<tspan class="event" font-weight="400" font-size="16"> · HackSpain 2026</tspan></text>
+</svg>

@@ -5,9 +5,12 @@
 
 > I'm a 19-year-old Computer Science - AI student at the University of Seville. I started programming at 14 and now teach competitive programming at the Algorithms Club at the University of Seville (CAUS). More recently, I've been building team projects at hackathons including DurHack, HackSpain and HackUPC. Outside computing, I make and sell crocheted pieces locally.
 
-[LinkedIn](https://www.linkedin.com/in/ines-davila-herrero/) · [GitHub](https://github.com/inesdavila)
+<p>
+  <a href="https://www.linkedin.com/in/ines-davila-herrero/"><img src="./assets/linkedin.svg" width="84" height="26" alt="LinkedIn"></a>
+  <a href="https://github.com/inesdavila"><img src="./assets/github.svg" width="72" height="26" alt="GitHub"></a>
+</p>
 
-## Main achievements
+## <img src="./assets/graph-detail.svg" width="27" height="20" alt=""> Main achievements
 
 - **DurHack 2026&#32;**(Hackathon)**:** we built Sight, an experimental audio navigation assistant for blind and visually impaired people. We won **1st** place in the **Accenture Track** and were **Marshall Wace Track finalists**, in the top four of more than 90 teams. We also placed **3rd in the Qube Research & Technologies x OpenAI CTF Track**.
 - **AdaByron Regional 2026&#32;**(Competitive Programming)**:** **1st in Category A/B and 4th overall**, qualifying for the national final in our first year as university students.
@@ -18,19 +21,19 @@
 
 ## Most-prideful builds
 
-### Sight · DurHack 2026
+### <img src="./assets/sight.svg" width="215" height="28" alt="Sight · DurHack 2026">
 
 We built Sight to explore real-time navigation for blind and visually impaired people. The prototype streams video from a phone to a GPU-equipped computer, where depth estimation detects obstacles and triggers local alerts without waiting for the cloud. Gemini interprets the scene, and ElevenLabs voices the guidance.
 
 [Project and demo](https://devpost.com/software/sight-v3qzmw) · [Source](https://github.com/raquezin/durhack26)
 
-### Thekenyos · HackSpain 2026
+### <img src="./assets/thekenyos.svg" width="281" height="28" alt="Thekenyos · HackSpain 2026">
 
 Our team's HackSpain project used a four-legged robot with an arm to harvest kiwis on orchard terrain. Working in simulation with MuJoCo, we got it walking on its own, detecting the fruit through a camera and picking it. The project reached the HackSpain final, winning a secondary track.
 
 [Demo](https://www.youtube.com/watch?v=fd89hCa-QUU&feature=youtu.be) · [Source](https://github.com/inesdavila/Thekenyos)
 
-### Blue Lobster · HackUPC 2026
+### <img src="./assets/blue-lobster.svg" width="287" height="28" alt="Blue Lobster · HackUPC 2026">
 
 A predictive-maintenance prototype for the HP Metal Jet S100 3D printer. Our team combined a simulated digital twin, maintenance planning, telemetry dashboards and an AI diagnostic assistant. The prototype uses synthetic machine data rather than a live industrial deployment.
 
@@ -44,14 +47,20 @@ I joined CAUS before starting university, when only a handful of us attended the
 
 - **Research intern, LSI (Computer Languages and Systems), University of Seville** · 2026-present. Undergraduate research internship: time series.
 - **Organiser, instructor and marketing lead, CAUS** · 2025-present. Competitive programming teaching, outreach and contest organisation.
-- **Group Leader, Aiglon College, Swiss Alps** · Summer 2026. Daily activities with multicultural groups, at one of the world's leading international boarding schools.
 - **Private tutor** · Since 2024. Maths and academic support for local secondary-school students.
 - **Volunteer, Sputnik**&#32;· Since 2024. Help organise seminars and events for 600 people; member of *Los 300* excellence network.
+
+<details>
+<summary>Earlier experience</summary>
+
+- **Group Leader, Aiglon College, Swiss Alps** · Summer 2026. Daily activities with multicultural groups, at one of the world's leading international boarding schools.
 - **Volunteer Computer Science teacher, NGO NASCO Feeding Minds, Ghana** · August 2023. Introduced children to digital tools and taught Python to older students and teachers.
 - **Teaching placement, Neville's Cross Primary School, UK** · July 2023.
 - **Laboratory work experience, Durham University, UK** · 2022. Assisted with rice-plant experiments under supervision during a school-age placement.
 
-## Education
+</details>
+
+## <img src="./assets/graph-detail.svg" width="27" height="20" alt=""> Education
 
 - **B.S. in Computer Science (AI Focus), University of Seville** · 2025-present. Class representative.
 - **GCI World 2026, Matsuo Lab, University of Tokyo** · Selected participant in the online course, currently in progress. Matsuo Lab is one of Japan's leading AI research laboratories.
